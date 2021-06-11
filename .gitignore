@@ -3,10 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-```python
+
 # Adding config.py file.
 api_keys.py
-```
+
 
 
 # C extensions
